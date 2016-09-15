@@ -11,7 +11,7 @@
 
 ## 教程目录
 
-* [关于应不应该用 **L: TRCN** 的答疑](README.md) (在本页)
+* [关于应不应该用 **L: TRCN** 的答疑](WhyL.md)
 
 * [获得启动器文件及支持](HowToDownload.md)
 

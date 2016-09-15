@@ -13,7 +13,7 @@
 
 * [关于应不应该用 **L: TRCN** 的答疑](WhyL.md)
 
-* [获得启动器文件及支持](HowToDownload.md)
+* [获得启动器文件及支持](HowToDownload.md) ← **(下载TRCN的途径在这里面)**
 
 * [安装启动器](HowToInstall.md)
 

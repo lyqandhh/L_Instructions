@@ -17,7 +17,7 @@
 
 你的力量, 并不微薄... 中国正版玩家越来越多, 官方理应支持我们.
 
-你可以在Steam中评论要求中文版, 也可以给[Relogic发邮件][2], [Twitter留言][3], 或[论坛发帖][4].
+你可以在Steam中评论要求中文版, 也可以给Relogic发邮件 (<support@re-logic.com>), [Twitter留言][2], 或[论坛发帖][3].
 
 ## 教程目录
 
@@ -46,6 +46,5 @@
 *作者也在群里的说 (跑)*
 
 [1]: http://shang.qq.com/wpa/qunwpa?idkey=7c9766593bc3e389e3a199ddcb66098ecf58cf4c2b822f2f983bc2727a0669d1
-[2]: support@re-logic.com
-[3]: https://twitter.com/Terraria_Logic
-[4]: http://terraria.org/
+[2]: https://twitter.com/Terraria_Logic
+[3]: http://terraria.org/

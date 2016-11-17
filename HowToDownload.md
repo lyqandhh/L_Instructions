@@ -1,6 +1,6 @@
 # 获取 **L: TRCN**
 
-1. 加入 [**L: TRCN 官方支持群(一群已满/二群开放中): 445947549**][3]
+1. 加入 **L: TRCN 官方支持群: [一群开放中 (333438229)][3] / [二群开放中 (445947549)][4]**
 
 2. 进入群文件并下载**最新版本**的**L: TRCN**, 详见下图
 
@@ -22,4 +22,5 @@
 
 [1]: https://raw.githubusercontent.com/mistzzt/L_Instructions/master/images/DownloadL_1.png
 [2]: HowToInstall.md
-[3]: http://shang.qq.com/wpa/qunwpa?idkey=7c9766593bc3e389e3a199ddcb66098ecf58cf4c2b822f2f983bc2727a0669d1
+[3]: http://shang.qq.com/wpa/qunwpa?idkey=9a82db4a2bc44dd678c06524daec46205ef26c72775eb738bdc2c6b26211b264
+[4]: http://shang.qq.com/wpa/qunwpa?idkey=7c9766593bc3e389e3a199ddcb66098ecf58cf4c2b822f2f983bc2727a0669d1

@@ -6,7 +6,7 @@
 
 > **提示**: 在这里反馈或询问问题并不是一个快速的好方法.
 > 这里有一些你可以询问的地方:
-> * 提供支持 [QQ群(一群已满/二群开放中): 445947549][1]
+> * 提供支持 QQ群: [一群开放中 (333438229)][1] / [二群开放中 (445947549)][2]
 > * 联系作者 QQ: 95126\*94* (*平常不在, 如有特殊问题加群后询问*)
 
 ## 我们想说的话
@@ -17,7 +17,7 @@
 
 你的力量, 并不微薄... 中国正版玩家越来越多, 官方理应支持我们.
 
-你可以在Steam中评论要求中文版, 也可以给Relogic发邮件 (<support@re-logic.com>), [Twitter留言][2], 或[论坛发帖][3].
+你可以在Steam中评论要求中文版, 也可以给Relogic发邮件 (<support@re-logic.com>), [Twitter留言][3], 或[论坛发帖][4].
 
 ## 教程目录
 
@@ -45,6 +45,7 @@
 
 *作者也在群里的说 (跑)*
 
-[1]: http://shang.qq.com/wpa/qunwpa?idkey=7c9766593bc3e389e3a199ddcb66098ecf58cf4c2b822f2f983bc2727a0669d1
-[2]: https://twitter.com/Terraria_Logic
-[3]: http://terraria.org/
+[1]: http://shang.qq.com/wpa/qunwpa?idkey=9a82db4a2bc44dd678c06524daec46205ef26c72775eb738bdc2c6b26211b264
+[2]: http://shang.qq.com/wpa/qunwpa?idkey=7c9766593bc3e389e3a199ddcb66098ecf58cf4c2b822f2f983bc2727a0669d1
+[3]: https://twitter.com/Terraria_Logic
+[4]: http://terraria.org/

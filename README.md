@@ -1,5 +1,13 @@
 # L: Terraria 1.3.4.3 汉化启动器
 
+## 最新通知
+
+### 当前 L: TRCN **已经停止更新**.
+
+请去Terraria吧获取[最新**抗药又坚硬汉化组**出品的汉化Terraria][5].
+
+## 旧说明
+
 该库存放 **L: Terraria 1.3.4.3** 的教程说明/使用指南.
 
 **注意: 下文和教程均将 `L: Terraria 1.3.4.3 汉化启动器` 简称为 `L: TRCN`**
@@ -49,3 +57,4 @@
 [2]: http://shang.qq.com/wpa/qunwpa?idkey=7c9766593bc3e389e3a199ddcb66098ecf58cf4c2b822f2f983bc2727a0669d1
 [3]: https://twitter.com/Terraria_Logic
 [4]: http://terraria.org/
+[5]: http://tieba.baidu.com/p/4890520454

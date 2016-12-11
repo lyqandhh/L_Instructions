@@ -1,8 +1,10 @@
 # 获取 **L: TRCN**
 
-1. 加入 **L: TRCN 官方支持群: [一群开放中 (333438229)][3] / [二群开放中 (445947549)][4]**
+~~1. 加入 **L: TRCN 官方支持群: [一群开放中 (333438229)] / [二群开放中 (445947549)]**~~
 
-提示: 你可以提前下载[英文版Terraria 1.3.4.3][]
+请去Terraria吧获取[最新**抗药又坚硬汉化组**出品的汉化Terraria][3].
+
+提示: 你可以提前下载[英文版Terraria 1.3.4.3][4]
 
 2. 进入群文件并下载**最新版本**的**L: TRCN**, 详见下图
 
@@ -24,6 +26,5 @@
 
 [1]: https://raw.githubusercontent.com/mistzzt/L_Instructions/master/images/DownloadL_1.png
 [2]: HowToInstall.md
-[3]: http://shang.qq.com/wpa/qunwpa?idkey=9a82db4a2bc44dd678c06524daec46205ef26c72775eb738bdc2c6b26211b264
-[4]: http://shang.qq.com/wpa/qunwpa?idkey=7c9766593bc3e389e3a199ddcb66098ecf58cf4c2b822f2f983bc2727a0669d1
-[5]: http://tieba.baidu.com/p/4867762842
+[3]: http://tieba.baidu.com/p/4890520454
+[4]: http://tieba.baidu.com/p/4867762842
